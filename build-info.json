@@ -1,0 +1,11 @@
+{
+  "desktopVersion": "1.7.2",
+  "webVersion": "2026.10.14-5",
+  "assetRevision": "20261014-zoom-cloak-fixes",
+  "createdAt": "2026-10-14T23:26:33.919Z",
+  "source": "Document scrolling, focused and multi-screen zoom/pan, compact viewer controls and blackout cloak fixes; all 463 original source paths retained",
+  "nativeBridge": 1,
+  "mobileRevision": 2026101404,
+  "nativeBinaryChanged": false,
+  "nativeSourceChanged": false
+}
